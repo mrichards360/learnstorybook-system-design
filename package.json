@@ -94,9 +94,9 @@
     "jest-runner": "^28"
   },
   "readme": "ERROR: No README data found!",
-  "description": "Storybook design system tutorial",
+  "description": "Storybook design systems tutorial",
   "main": "dist/index.js",
-  "repository": "https://github.com/mrichards360/learnstorybook-design-system.git",
+  "repository": "https://github.com/mrichards360/learnstorybook-system-design",
   "author": "mrichards360 <markell.richards@groups360.com>",
   "license": "MIT"
 }
